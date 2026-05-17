@@ -3,6 +3,10 @@
 > โปรแกรมแจ้งเตือน Donate สำหรับ Streamer — รองรับ TipMe, TikTok, YouTube, EasyDonate และ Facebook Live
 
 ---
+## 📥 ดาวน์โหลด
+
+[![Download](https://img.shields.io/badge/ดาวน์โหลด-Donate%20Alert%20v1.3.1-yellow?style=for-the-badge)](https://github.com/devpanitan/Donate-All-Releases/releases/latest/download/Donate-Alert-Setup-1.3.1.exe)
+
 
 ## 🎬 วิดีโอสอนการใช้งาน
 
